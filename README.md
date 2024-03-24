@@ -1,4 +1,4 @@
-# Hello, Richard Lopez Ortiz
+# Hello, I'm Richard Lopez Ortiz
 
 As a dedicated cybersecurity professional, I am committed to leveraging my expertise and 
 passion for safeguarding sensitive information and protecting organizations against evolving 
