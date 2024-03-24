@@ -5,7 +5,7 @@ passion for safeguarding sensitive information and protecting organizations agai
 cyber threats. I bring a unique blend of skills, strengths, and values that align with the dynamic 
 and challenging landscape of cybersecurity. My strengths are technical proficiency, an analytical 
 mind, and communication and collaboration. Some of my values are integrity and my desire for 
-continuous learning. My strengths, values, and a keen interest in cybersecurity are uniquely 
+continuous learning. My strengths, values, and keen interest in cybersecurity are uniquely 
 positioned to support the security goals of various organizations in several ways. Through technical 
 proficiency and analytical acumen, I can help identify and address security vulnerabilities, implement 
 robust security measures, and develop proactive strategies to mitigate cyber threats effectively. By 
