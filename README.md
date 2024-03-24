@@ -1,6 +1,6 @@
 # Hello, I'm Richard Lopez Ortiz
 
-As a dedicated cybersecurity professional, I am committed to leveraging my expertise and 
+     As a dedicated cybersecurity professional, I am committed to leveraging my expertise and 
 passion for safeguarding sensitive information and protecting organizations against evolving 
 cyber threats. I bring a unique blend of skills, strengths, and values that align with the dynamic 
 and challenging landscape of cybersecurity. My strengths are technical proficiency, an analytical 
