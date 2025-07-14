@@ -1,5 +1,4 @@
-# Hello, I'm Richard Lopez Ortiz
-
+# <a href="https://www.linkedin.com/in/richard-lopez-ortiz-13959b308/">Richard Lopez Ortiz</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 As a dedicated cybersecurity professional, I am committed to leveraging my expertise and 
 passion for safeguarding sensitive information and protecting organizations against evolving 
@@ -27,3 +26,16 @@ professional statement is directed towards cybersecurity recruiters seeking dedi
 a proven track record of excellence in mitigating cyber risks and protecting critical assets. With a 
 strong focus on technical proficiency, analytical skills, and collaborative communication, I am poised 
 to contribute to the success and security of any organization in need of cybersecurity expertise.
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
