@@ -29,6 +29,7 @@ to contribute to the success and security of any organization in need of cyberse
 
 <a href="https://github.com/symphus/Resume">Richard's Resume</a> Github<br>
 <a href="https://docs.google.com/document/d/1p4FS3-sQ8MUU0GIXq9gPcLGRC4SZ_uF_jpiZug-9hek/edit?usp=sharing">Richard's Resume</a> Google Docs
+<a href="https://www.linkedin.com/in/richard-lopez-ortiz-13959b308/">Richard's Resume</a> LinkedIn<br>
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/symphus/vulnerability-management-program/tree/main)**
