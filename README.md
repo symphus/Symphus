@@ -27,8 +27,8 @@ a proven track record of excellence in mitigating cyber risks and protecting cri
 strong focus on technical proficiency, analytical skills, and collaborative communication, I am poised 
 to contribute to the success and security of any organization in need of cybersecurity expertise.
 
-<a href="https://github.com/symphus/Resume">Richard's Resume</a>
-
+<a href="https://github.com/symphus/Resume">Richard's Resume</a> Github
+<a href="https://docs.google.com/document/d/1p4FS3-sQ8MUU0GIXq9gPcLGRC4SZ_uF_jpiZug-9hek/edit?usp=sharing">Richard's Resume</a> Google Docs
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/symphus/vulnerability-management-program/tree/main)**
