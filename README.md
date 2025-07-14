@@ -31,7 +31,7 @@ to contribute to the success and security of any organization in need of cyberse
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/symphus/vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/symphus/programmatic-vulnerability-remediations)**
 
 
 <hr/>
