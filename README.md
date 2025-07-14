@@ -27,7 +27,7 @@ a proven track record of excellence in mitigating cyber risks and protecting cri
 strong focus on technical proficiency, analytical skills, and collaborative communication, I am poised 
 to contribute to the success and security of any organization in need of cybersecurity expertise.
 
-<a href="https://github.com/symphus/Resume">Richard Lopez Ortiz</a>'s Resume
+<a href="https://github.com/symphus/Resume">Richard's Resume</a>
 
 ## ⚠️ Vulnerability Management Projects
 
